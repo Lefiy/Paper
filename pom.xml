@@ -16,7 +16,7 @@
 
     <name>PaperSpigot-Parent</name>
     <description>Parent project for all PaperSpigot modules.</description>
-    <url>https://github.com/PaperSpigot/Spigot</url>
+    <url>https://github.com/PaperMC/Paper</url>
 
     <modules>
         <module>PaperSpigot-Server</module>
